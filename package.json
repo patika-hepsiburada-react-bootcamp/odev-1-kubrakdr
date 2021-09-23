@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/patika-hepsiburada-react-bootcamp/odev-1-kubrakdr#readme",
   "dependencies": {
-    "axios": "^0.21.4"
+    "axios": "^0.21.4",
+    "promise": "^8.1.0"
   }
 }
